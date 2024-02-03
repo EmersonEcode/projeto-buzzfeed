@@ -1,0 +1,23 @@
+<div class="quizz__container">
+  <div class="quizz_logo">
+    <img src="https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone/blob/main/src/assets/imgs/logo.png?raw=true" alt="">
+    <h3>{{title}}</h3>
+  </div>
+  <div *ngIf="!finish" class="quizz__questions">
+    <div class="quizz_questions">
+      <h3>{{questionSelected.question}}</h3>
+    </div>
+    <div class="quizz_options">
+      <button *ngFor="let option of questionSelected.options"
+      (click) = "playerChoose(option.alias)"
+      class="btn-option">
+      {{option.name}}
+    </button>
+    </div>
+  </div>
+
+  <div *ngIf='finish'  class="quizz_results">
+    <h1>O seu resultado é: </h1>
+    <p>{{answerSelected}}</p>
+  </div>
+</div>

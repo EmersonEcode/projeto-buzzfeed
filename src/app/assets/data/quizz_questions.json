@@ -1,0 +1,152 @@
+{
+  "title":"Você seria um heroi ou vilão ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual super poder você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
+        {"id": 2, "name":"Voar", "alias":"B"},
+        {"id": 3, "name":"Explodir coisas", "alias":"A"},
+        {"id": 4, "name":"Curar feridas", "alias":"B"},
+        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Quem você salvaria primeiro ?",
+      "options":[
+        {"id": 1, "name":"Crianças", "alias":"A"},
+        {"id": 2, "name":"Idosos", "alias":"A"},
+        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "options":[
+        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
+        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
+        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
+        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
+        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o seu apelido de super ser ?",
+      "options":[
+        {"id": 1, "name":"O Terrivel", "alias":"A"},
+        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Como você lidaria com um inimigo poderoso?",
+      "options": [
+        {"id": 1, "name": "Planejaria estratégias astutas", "alias": "B"},
+        {"id": 2, "name": "Usaria força bruta", "alias": "A"},
+        {"id": 3, "name": "Procuraria uma solução pacífica", "alias": "B"},
+        {"id": 4, "name": "Formaria uma aliança temporária", "alias": "A"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qual é a sua relação com a lei?",
+      "options": [
+        {"id": 1, "name": "Sempre tento seguir a lei", "alias": "B"},
+        {"id": 2, "name": "A lei não se aplica a mim", "alias": "A"},
+        {"id": 3, "name": "Às vezes contorno a lei para fazer o que é certo", "alias": "B"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual é o seu disfarce ideal?",
+      "options": [
+        {"id": 1, "name": "Traje sombrio e intimidador", "alias": "A"},
+        {"id": 2, "name": "Uniforme colorido e inspirador", "alias": "B"},
+        {"id": 3, "name": "Mantenho minha identidade pública", "alias": "B"},
+        {"id": 4, "name": "Máscara misteriosa e capa", "alias": "A"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Como você lidaria com a perda de um ente querido?",
+      "options": [
+        {"id": 1, "name": "Buscaria vingança a qualquer custo", "alias": "A"},
+        {"id": 2, "name": "Usaria a dor como motivação para proteger os outros", "alias": "B"},
+        {"id": 3, "name": "Isolaria-me do mundo", "alias": "A"},
+        {"id": 4, "name": "Procuraria apoio em amigos e aliados", "alias": "B"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Qual é a sua relação com a imprensa?",
+      "options": [
+        {"id": 1, "name": "Evito a imprensa para manter o mistério", "alias": "A"},
+        {"id": 2, "name": "Colaboro com a imprensa para ganhar confiança pública", "alias": "B"},
+        {"id": 3, "name": "A imprensa é minha inimiga", "alias": "A"},
+        {"id": 4, "name": "Mantenho uma relação equilibrada com a imprensa", "alias": "B"}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Como você lidaria com um colega super-herói que discorda de suas ações?",
+      "options": [
+        {"id": 1, "name": "Lutaria contra ele para provar meu ponto", "alias": "A"},
+        {"id": 2, "name": "Procuraria um compromisso e trabalharia juntos", "alias": "B"},
+        {"id": 3, "name": "Ignoraria suas opiniões e seguiria meu caminho", "alias": "A"},
+        {"id": 4, "name": "Respeitaria suas opiniões, mesmo que discordasse", "alias": "B"}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Como você manteria seu disfarce em situações do dia a dia?",
+      "options": [
+        {"id": 1, "name": "Evitaria contatos sociais", "alias": "A"},
+        {"id": 2, "name": "Seria carismático e amigável", "alias": "B"},
+        {"id": 3, "name": "Usaria tecnologia para manter o anonimato", "alias": "A"},
+        {"id": 4, "name": "Aproveitaria eventos sociais para fortalecer laços", "alias": "B"}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "O que é mais importante para você: justiça ou ordem?",
+      "options": [
+        {"id": 1, "name": "Justiça, mesmo que isso signifique caos", "alias": "A"},
+        {"id": 2, "name": "Ordem, mesmo que isso signifique injustiça", "alias": "B"},
+        {"id": 3, "name": "Equilibrar justiça e ordem", "alias": "B"}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Como você escolheria seus aliados?",
+      "options": [
+        {"id": 1, "name": "Pela força e habilidade de combate", "alias": "A"},
+        {"id": 2, "name": "Pela ética e valores morais", "alias": "B"},
+        {"id": 3, "name": "Aliados estratégicos, independentemente da moral", "alias": "A"},
+        {"id": 4, "name": "Amizades antigas e confiáveis", "alias": "B"}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Como você lidaria com a tentação de usar seus poderes para benefício pessoal?",
+      "options": [
+        {"id": 1, "name": "Usaria meus poderes para ganho pessoal", "alias": "A"},
+        {"id": 2, "name": "Resistiria à tentação e usaria poderes apenas para o bem", "alias": "B"},
+        {"id": 3, "name": "Usaria com moderação, balanceando benefício pessoal e ajudar os outros", "alias": "A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um super vilão!",
+    "B": "Você muito provavelmente seria um super Herói!"
+  }
+}
