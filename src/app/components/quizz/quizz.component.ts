@@ -60,6 +60,13 @@ ngOnInit(): void{
 
 }
 
+backToTheInit(){
+  this.finish = false
+  this.questionIndex = 0
+  this.questionSelected = this.questions[this.questionIndex]
+
+}
+
 checkResults(answers: string[]):string{
   const result = answers.reduce((previus, current, i , arr) => {
     if(

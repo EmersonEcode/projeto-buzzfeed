@@ -19,5 +19,7 @@
   <div *ngIf='finish'  class="quizz_results">
     <h1>O seu resultado é: </h1>
     <p>{{answerSelected}}</p>
+    <button class="btn-option btn-result"
+    (click)="backToTheInit()">Jogar novamente</button>
   </div>
 </div>

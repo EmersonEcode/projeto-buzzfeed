@@ -89,4 +89,10 @@
   font-size: 50px;
   font-weight: 700;
   text-shadow: 0px 1px 0px #00343d;
+  margin-bottom: 10px;
+}
+
+.btn-result
+{
+  background-color: rgb(0, 0, 128);
 }
